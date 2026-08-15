@@ -10,5 +10,9 @@ Halo, ini catatan kedua dari Fara
 
 # Andre nambah comment
 1 baris untuk test commit
+<<<<<<< HEAD
 
 FARA THIRD TEST
+=======
+### ini Raymond nambah lagi
+>>>>>>> b2b4cf73e7e6eb56a5cc38e344bdf44df1d247e9
