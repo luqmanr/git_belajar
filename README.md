@@ -11,3 +11,6 @@ Halo, ini catatan kedua dari Fara
 # Andre nambah comment
 1 baris untuk test commit
 
+# Monic test
+test baris baru
+
