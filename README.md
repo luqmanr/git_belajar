@@ -9,3 +9,4 @@ abcde
 
 
 # Raymond nambah 1 comment
+Halo, ini catatan kedua dari Fara
