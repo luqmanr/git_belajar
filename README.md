@@ -1,3 +1,3 @@
-# Memulai
+# Memulai Pelajaran GIT
 Belajar
 abcde
