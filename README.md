@@ -1,3 +1,4 @@
+# Rilis versi 1.0.0
 Ini adalah catatan dari Fara
 # Memulai Pelajaran GIT
 Belajar
